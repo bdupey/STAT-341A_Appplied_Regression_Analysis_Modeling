@@ -40,3 +40,4 @@ print(SSres)
 # Calculating sigma_sq
 sigma_sq=SSres/(n-2)
 print(sigma_sq)
+
